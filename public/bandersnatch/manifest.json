@@ -1,10 +1,10 @@
 {
   "hostTag": "$HOST",
   "fileResolutionTag": "$RESOLUTION",
-  "localhost": "localhost:8081",
+  "localHost": "localhost:8081",
   "productionHost": "",
-  "codec": "",
-  "into": {
+  "codec": "video/mp4; codecs=\"avc1.64001F,mp4a.40.2\"",
+  "intro": {
     "url": "$HOST/timeline/01.intro/01.intro-12.733333-$RESOLUTION.mp4",
     "at": 10,
     "options": ["Guitarra", "Violao"],
